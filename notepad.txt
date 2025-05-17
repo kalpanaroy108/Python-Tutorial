@@ -1,0 +1,12 @@
+how to upload file in github
+
+
+1. add all file using terminal
+
+   git add .
+
+2. commit all the files
+   git commit -m " add a trffic signal file "
+
+3. upload (push) push the file in github
+   git push origin 

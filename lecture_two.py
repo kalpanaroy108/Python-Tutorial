@@ -12,3 +12,5 @@
 # print (str1)
 str1 = "this is a string. \twe are creating it in python"
 print (str1)
+
+
